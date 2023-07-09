@@ -109,11 +109,6 @@ _G.packer_plugins = {
     path = "/Users/arnavshah/.local/share/nvim/site/pack/packer/start/mason.nvim",
     url = "https://github.com/williamboman/mason.nvim"
   },
-  neorg = {
-    loaded = true,
-    path = "/Users/arnavshah/.local/share/nvim/site/pack/packer/start/neorg",
-    url = "https://github.com/nvim-neorg/neorg"
-  },
   ["nvim-cmp"] = {
     loaded = true,
     path = "/Users/arnavshah/.local/share/nvim/site/pack/packer/start/nvim-cmp",
